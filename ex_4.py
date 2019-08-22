@@ -1,6 +1,7 @@
-import sys
+from sys import argv
 
-script, user_name = sys.argv
+script, user_name = argv
+
 prompt = '>'
 
 print(f'hi {user_name}, i am the {script} script.')
