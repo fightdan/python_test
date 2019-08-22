@@ -1,6 +1,6 @@
-import argv
+import sys
 
-script, first, second, third = argv
+script, first, second, third = sys.argv
 
 print("the script is called:", script)
 print("your first variable is:", first)
