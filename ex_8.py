@@ -13,5 +13,5 @@ def print_none():
     
 print_two("zed", "shaw")
 print_two_again("zed", "shaw")
-print_two_again("first!")
+print_one("first!")
 print_none()
