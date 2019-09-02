@@ -1,0 +1,5 @@
+Choerodon 使用 Kubernetes 来管理和部署服务。关于 Kubernetes，请参考 Kubernetes 概览。
+
+同时，Choerodon 使用 Spring Cloud 作为微服务分布式系统，并且 Choerodon 还使用 Spring Boot 进行了通用性模块的封装，例如组织管理、用户管理、权限管理等；前端使用 React 作为开发组件。关于 Choerodon 的开发请参考 Choerodon 猪齿鱼微服务开发框架 开发。
+
+有关 Choerodon 组件的详细概念信息，请参阅我们的其他概念指南。
